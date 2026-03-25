@@ -1,0 +1,10 @@
+pyinstaller>=6.0
+cryptography>=42.0
+keyring>=24.0           # OS keyring for PSK storage (Windows Credential Manager)
+zeroconf>=0.131.0       # mDNS discovery
+
+# UX (optional but recommended)
+tkinterdnd2>=0.3.0      # drag & drop
+pystray>=0.19.0         # system tray
+Pillow>=10.0.0          # tray icon rendering (required by pystray)
+win10toast>=0.9         # Windows toast notifications (optional, plyer is fallback)
