@@ -35,7 +35,7 @@ A simple, fast and reliable application for transferring files and folders betwe
 
 ```bash
 # 1. Клонуйте репозиторій
-git clone https://github.com/<your-username>/LAN-FT.git
+git clone https://github.com/Johny97Moon/LAN-FT.git
 cd LAN-FT
 
 # 2. Створіть віртуальне середовище
@@ -149,7 +149,7 @@ LAN-FT/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/LAN-FT.git
+git clone https://github.com/Johny97Moon/LAN-FT.git
 cd LAN-FT
 
 # 2. Create virtual environment

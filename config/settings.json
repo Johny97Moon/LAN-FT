@@ -1,0 +1,20 @@
+{
+  "port": 5001,
+  "save_dir": "C:\\Users\\Markus\\Downloads",
+  "max_file_size_mb": 0,
+  "max_parallel_transfers": 3,
+  "overwrite_existing": "ask",
+  "log_level": "INFO",
+  "psk_storage": "keyring",
+  "theme": "dark",
+  "discovery_port": 5002,
+  "connect_timeout": 30,
+  "sound_notify": true,
+  "toast_notify": true,
+  "minimize_to_tray": true,
+  "autostart_host": false,
+  "max_history": 200,
+  "language": "ua",
+  "psk": "",
+  "chunk_size": 65536
+}
