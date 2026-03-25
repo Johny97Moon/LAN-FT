@@ -1,6 +1,6 @@
 {
   "port": 5001,
-  "save_dir": "C:\\Users\\Markus\\Downloads",
+  "save_dir": "C:\\Users\\User\\Downloads",
   "max_file_size_mb": 0,
   "max_parallel_transfers": 3,
   "overwrite_existing": "ask",
